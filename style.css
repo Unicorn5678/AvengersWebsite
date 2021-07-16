@@ -1,0 +1,99 @@
+body{
+background-color: lightskyblue;
+}
+
+img{
+    height: 200px;
+    width: 150px;
+    border-radius: 500px;
+}
+
+img:hover{
+    width: 175px;
+    height:300 px;
+}
+
+h1{
+    font-family:'Times New Roman', Times, serif;
+}
+
+#intro{
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family:monospace;
+}
+
+#two{
+font-size:18px;
+}
+
+#name{
+    font-size:18px;
+    font-weight:bold;
+    font-family:monospace;
+}
+
+#cap{
+    background-color:lightcyan;
+    border-radius: 10px;
+    width:80%;
+    margin-right:375px;
+    padding-top:20px;
+}
+
+#ironman{
+    background-color:lightcoral;
+    border-radius: 10px;
+    width:80%;
+    margin-left:375px;
+    padding-top:20px;
+}
+
+#blackwidow{
+    background-color:lightgray;
+    border-radius: 10px;
+    width:80%;
+    margin-right:375px;
+    padding-top:20px;
+}
+
+#hulk{
+    background-color:lightgreen;
+    border-radius: 10px;
+    width:80%;
+    margin-left:375px;
+    padding-top:20px;
+}
+
+#thor{
+    background-color:lightyellow;
+    border-radius: 10px;
+    width:80%;
+    margin-right:375px;
+    padding-top:20px;
+}
+
+#hawkeye{
+    background-color:lavender;
+    border-radius: 10px;
+    width:80%;
+    margin-left:375px;
+    padding-top:20px;
+}
+
+iframe{
+    width:500px;
+    height:400px;
+}
+
+.copy_right_footer{
+    color: #6c757d;
+    bottom:0;
+    width:100%;
+    background-color:#f5f5f5;
+    line-height: 3;
+    text-align:center;
+}
